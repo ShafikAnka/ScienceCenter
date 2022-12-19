@@ -1,0 +1,41 @@
+{
+  "isSuccess": true,
+  "data": [
+    {
+      "id": 123,
+      "img": "https://m.media-amazon.com/images/I/61LVJN2aIoL._SX331_BO1,204,203,200_.jpg",
+      "title": "Naruto, Volume 1",
+      "price": 480.00
+    },
+    {
+      "id": 165,
+      "img": "https://m.media-amazon.com/images/P/B00I9IO7FE.01._SCLZZZZZZZ_SX500_.jpg",
+      "title": "One-Punch Man",
+      "price": 233.63
+    },
+    {
+      "id": 185,
+      "img": "https://m.media-amazon.com/images/P/B01MDKSOJJ.01._SCLZZZZZZZ_SX500_.jpg",
+      "title": "Itachi's Story",
+      "price": 775.65
+    },
+    {
+      "id": 128,
+      "img": "https://m.media-amazon.com/images/P/B099WFVWKT.01._SCLZZZZZZZ_SX500_.jpg",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "price": 629
+    },
+    {
+      "id": 149,
+      "img": "https://m.media-amazon.com/images/I/61mXuhA03UL._SX331_BO1,204,203,200_.jpg",
+      "title": "Boruto",
+      "price": 430.33
+    },
+    {
+      "id": 137,
+      "img": "https://m.media-amazon.com/images/I/51rNFZB4hRL._SX331_BO1,204,203,200_.jpg",
+      "title": "Pokémon",
+      "price": 299.00
+    }
+  ]
+}
